@@ -1,5 +1,25 @@
-# Machine-Learning-Project-University
+# Machine Learning Project - University
 
-Inside the branch called project are included all the files.
+## Overview
+This project involves building a **Linear Classification Model** to forecast purchases in an e-shop. The model is trained using **scikit-learn** on a dataset provided in CSV format.
 
-Linear Classification model creation for the forecasting of purchases in an eshop. CSV file include the data and we are training our model with using scikit-learn library.(eda.py and linearclassification.py)
+## Repository Structure
+- The entire project is inside the branch **"project"**.
+- Main files:
+  - `eda.py` - Exploratory Data Analysis (EDA) on the dataset.
+  - `linearclassification.py` - Implementation of the Linear Classification model.
+
+## Tech Stack
+- **Language:** Python
+- **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn
+
+## Setup Instructions
+### Prerequisites
+- Install **Python 3** and required dependencies:
+  ```bash
+  pip install scikit-learn pandas numpy matplotlib seaborn
+
+git clone https://github.com/Panos994/Machine-Learning-Project-University.git
+
+
+
